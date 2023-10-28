@@ -55,11 +55,11 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sawaby&theme=nightowl&border_radius=6.6" alt="GitHub Streak" /></a>
+ <img src="https://streak-stats.demolab.com?user=sawaby&theme=nightowl&border_radius=6.6" alt="GitHub Streak" />
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=sawaby&show_icons=true&theme=nightowl&rank_icon=github&border_radius=10" alt="readme stats" />
 
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-sawaby.vercel.app/api/top-langs/?username=sawaby&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawaby&hide=HTML&langs_count=8&layout=compact&theme=nightowl&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
