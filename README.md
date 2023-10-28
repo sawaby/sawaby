@@ -31,7 +31,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">:book: Languages-Frameworks-Tools :clipboard:</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,mui,html,css,vscode,github,tailwind,bootstrap" />
@@ -42,7 +42,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>:game_die: My Contributions :game_die:</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sawaby/sawaby/output/github-contribution-grid-snake.svg" />
   
