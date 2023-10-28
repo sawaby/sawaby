@@ -52,7 +52,7 @@
 <hr/>
 
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">:star: Stats :star:</h2>
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com?user=sawaby&theme=nightowl&border_radius=10" alt="GitHub Streak" />
