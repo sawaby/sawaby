@@ -51,7 +51,11 @@
 
 <hr/>
 
-![](images/dashboard.png)
+<div align=center>
+ <a href="">
+    <img src="images/dashboard.png" width="200" height="200"/>
+  </a>
+</div>
 
 <h2 align="center">:star: Stats :star:</h2>
 <br>
