@@ -51,6 +51,7 @@
 
 <hr/>
 
+![](images/dashboard.png)
 
 <h2 align="center">:star: Stats :star:</h2>
 <br>
