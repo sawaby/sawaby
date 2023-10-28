@@ -49,8 +49,10 @@
   <br/><br/><br/>
 </div>
 
+<br/>
 <hr/>
 
+<h2 align="center">:technologist: Recent Projects :technologist:</h2>
 <div align=center>
  <a href="https://mydashboard-phi.vercel.app/">
     <img src="images/dashboard.png" width="400" height="300"/>
