@@ -52,8 +52,8 @@
 <hr/>
 
 <div align=center>
- <a href="">
-    <img src="images/dashboard.png" width="200" height="200"/>
+ <a href="https://mydashboard-phi.vercel.app/">
+    <img src="images/dashboard.png" width="400" height="300"/>
   </a>
 </div>
 
