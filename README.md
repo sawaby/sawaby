@@ -3,7 +3,7 @@
 
 <h1 align="center">
 <!--     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Maria+Nazehat!;" /> -->
-   <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=30&pause=1000&color=7D49DA&background=FF8BA400&center=true&vCenter=true&random=false&width=435&lines=Hi+There!;I'm+Maria+Nazehat;Nice+to+meet+you!" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&height=90&size=35&pause=500&color=7D49DA&duration=4000&background=FF8BA400&center=true&vCenter=true&random=false&width=435&lines=Hi+There!;I'm+Maria+Nazehat;Nice+to+meet+you!" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">A passionate software developer based in California</h3>
