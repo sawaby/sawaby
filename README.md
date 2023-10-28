@@ -52,7 +52,7 @@
 <br/>
 <hr/>
 
-<h2 align="center">:technologist: Recent Projects :technologist:</h2>
+<h2 align="center">:woman_technologist: Recent Projects :woman_technologist:</h2>
 <div align=center>
  <a href="https://mydashboard-phi.vercel.app/">
     <img src="images/dashboard.png" width="400" height="300"/>
