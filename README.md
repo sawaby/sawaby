@@ -10,12 +10,10 @@
 <br/>
 
 <div align="center">
- 🔭 I’m currently working on **a chat app**
- 
- 🌱 I’m currently learning **NextJS, Tailwind, React Native**
 
  💬 Ask me about **Node.js, React, Python, MongoDB... or anything [here](https://github.com/sawaby/sawaby/issues)**
 </div>
+<br />
 
 <div align="center"> 
   <a href="mailto:msawaby@gmail.com">
