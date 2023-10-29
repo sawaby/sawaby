@@ -59,16 +59,22 @@
             <img src="images/dashboard.png" width="400" height="300"/>
           </a>
     </kbd>
+     <kbd> 
  <a href="http://codebook-m.netlify.app/">
     <img src="images/2.png" width="400" height="300"/>
   </a>
+           </kbd>
     <br/>
+          <kbd> 
     <a href="http://cinemate-m.netlify.app/">
     <img src="images/cinemate.png" width="400" height="300"/>
   </a>
+                </kbd>
+               <kbd> 
      <a href="http://todoapp-f.netlify.app/">
     <img src="images/6.png" width="400" height="300"/>
   </a>
+                     </kbd>
 </div>
 
 <h2 align="center">:star: Stats :star:</h2>
