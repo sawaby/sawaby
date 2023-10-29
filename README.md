@@ -81,6 +81,7 @@
 
 </div>
 
+<hr />
 <h2 align="center">:star: Stats :star:</h2>
 <br>
 <div align=center>
