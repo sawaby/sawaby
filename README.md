@@ -57,6 +57,16 @@
  <a href="https://mydashboard-phi.vercel.app/">
     <img src="images/dashboard.png" width="400" height="300"/>
   </a>
+ <a href="http://codebook-m.netlify.app/">
+    <img src="images/2.png" width="400" height="300"/>
+  </a>
+    <br/>
+    <a href="http://cinemate-m.netlify.app/">
+    <img src="images/cinemate.png" width="400" height="300"/>
+  </a>
+     <a href="http://todoapp-f.netlify.app/">
+    <img src="images/6.png" width="400" height="300"/>
+  </a>
 </div>
 
 <h2 align="center">:star: Stats :star:</h2>
