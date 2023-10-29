@@ -54,32 +54,28 @@
 
 <h2 align="center">:woman_technologist: Recent Projects :woman_technologist:</h2>
 <div align=center>
-   <table>
-       <tr>
-           <td>
+   <kdb>
          <a href="https://mydashboard-phi.vercel.app/">
             <img src="images/dashboard.png" width="400" height="300"/>
           </a>
-    </td>
-     <td> 
- <a href="http://codebook-m.netlify.app/">
-    <img src="images/2.png" width="400" height="300"/>
-  </a>
-           </td>
-       </tr>
-       <tr>
-          <td> 
-    <a href="http://cinemate-m.netlify.app/">
-    <img src="images/cinemate.png" width="400" height="300"/>
-  </a>
-                </td>
-               <td> 
-     <a href="http://todoapp-f.netlify.app/">
-    <img src="images/6.png" width="400" height="300"/>
-  </a>
-                     </td>
-           </tr>
-   </table>
+    </kdb>
+     <kdb> 
+         <a href="http://codebook-m.netlify.app/">
+            <img src="images/2.png" width="400" height="300"/>
+        </a>
+    </kdb>
+    <br />
+    <kdb> 
+        <a href="http://cinemate-m.netlify.app/">
+            <img src="images/cinemate.png" width="400" height="300"/>
+        </a>
+    </kdb>
+    <kdb> 
+        <a href="http://todoapp-f.netlify.app/">
+            <img src="images/6.png" width="400" height="300"/>
+        </a>
+    </kdb>
+
 </div>
 
 <h2 align="center">:star: Stats :star:</h2>
