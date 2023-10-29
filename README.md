@@ -54,9 +54,11 @@
 
 <h2 align="center">:woman_technologist: Recent Projects :woman_technologist:</h2>
 <div align=center>
- <a href="https://mydashboard-phi.vercel.app/">
-    <img src="images/dashboard.png" width="400" height="300"/>
-  </a>
+    <div border="1px solid black"> 
+         <a href="https://mydashboard-phi.vercel.app/">
+            <img src="images/dashboard.png" width="400" height="300"/>
+          </a>
+    </div>
  <a href="http://codebook-m.netlify.app/">
     <img src="images/2.png" width="400" height="300"/>
   </a>
