@@ -66,7 +66,7 @@
         </a>
     </kdb>
     <br />
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    <br />
     <kdb> 
         <a href="http://cinemate-m.netlify.app/">
             <img src="images/cinemate.png" width="400" height="300"/>
