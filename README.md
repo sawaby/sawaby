@@ -54,27 +54,32 @@
 
 <h2 align="center">:woman_technologist: Recent Projects :woman_technologist:</h2>
 <div align=center>
-    <kbd> 
+   <table>
+       <tr>
+           <td>
          <a href="https://mydashboard-phi.vercel.app/">
             <img src="images/dashboard.png" width="400" height="300"/>
           </a>
-    </kbd>
-     <kbd> 
+    </td>
+     <td> 
  <a href="http://codebook-m.netlify.app/">
     <img src="images/2.png" width="400" height="300"/>
   </a>
-           </kbd>
-    <br/>
-          <kbd> 
+           </td>
+       </tr>
+       <tr>
+          <td> 
     <a href="http://cinemate-m.netlify.app/">
     <img src="images/cinemate.png" width="400" height="300"/>
   </a>
-                </kbd>
-               <kbd> 
+                </td>
+               <td> 
      <a href="http://todoapp-f.netlify.app/">
     <img src="images/6.png" width="400" height="300"/>
   </a>
-                     </kbd>
+                     </td>
+           </tr>
+   </table>
 </div>
 
 <h2 align="center">:star: Stats :star:</h2>
