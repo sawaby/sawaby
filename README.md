@@ -11,7 +11,7 @@
 
 <div align="center">
 
- 💬 Ask me about **Node.js, React, Python, MongoDB... or anything [here](https://github.com/sawaby/sawaby/issues)**
+ 💬 Ask me about **React, Python, MongoDB... or anything [here](https://github.com/sawaby/sawaby/issues)**
 </div>
 <br />
 
