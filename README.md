@@ -57,7 +57,6 @@
             <img src="images/dashboard.png" width="400" height="300"/>
           </a>
     </kdb>
-    &nbsp;&nbsp;&nbsp;&nbsp;
      <kdb> 
          <a href="http://codebook-m.netlify.app/">
             <img src="images/2.png" width="400" height="300"/>
@@ -70,7 +69,6 @@
             <img src="images/cinemate.png" width="400" height="300"/>
         </a>
     </kdb>
-    &nbsp;&nbsp;&nbsp;&nbsp;
     <kdb> 
         <a href="http://todoapp-f.netlify.app/">
             <img src="images/6.png" width="400" height="300"/>
