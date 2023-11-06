@@ -29,7 +29,7 @@
 
  <hr/>
  
- [![trophy](https://github-profile-trophy.vercel.app/?username=sawaby&theme=onedark)](https://github.com/sawaby/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=sawaby&theme=onedark&row=1&column=6)](https://github.com/sawaby/github-profile-trophy)
 
  <hr />
 <h2 align="center">:book: Languages-Frameworks-Tools :clipboard:</h2>
