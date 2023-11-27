@@ -35,7 +35,7 @@
 <h2 align="center">:book: Languages-Frameworks-Tools :clipboard:</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,mui,html,css,vscode,github,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=react,typescript,mui,html,css,vscode,github,tailwind,bootstrap" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,firebase,mongodb,java,nextjs,mysql" /><br>
 </div>
 
